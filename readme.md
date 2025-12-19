@@ -28,3 +28,14 @@ git push origin main
   :start": "npx @tailwindcss/cli -i ./input.css -o ./output.css --watch"
     }
 
+
+<h1>branch<h1>
+git branch
+git branch <branch name>
+ex. git branch develpmrnt
+git branch
+git checkout <branck name>
+ex.git checkout development
+
+
+
